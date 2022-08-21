@@ -1,0 +1,43 @@
+img{
+		margin-top:150px ;
+		padding-left: 790px	;
+	}
+	form{
+		padding-bottom: 40px;
+	}
+	input{
+
+			width: 500px;
+	    padding-bottom: 10px;
+	    border-radius: 1em;
+	}
+	#signin{
+		background-color:#0099ff;
+	color: white;
+	}
+	a:link{
+           text-decoration: none;
+	}
+	a:visited{
+		color: black;
+	} 
+	a:hover{
+		text-decoration: underline;
+	}
+	#search{
+      margin-right:50px ;
+	}
+	#langs{
+		margin-left: 700px;
+  }
+  #lang{
+      color: blue;
+     margin-left: 3px;
+  }
+  #bottom{
+  	background-color:#f0f0f5;
+  	margin-top: 300px;
+  }
+  #bottomrt{
+padding-left: 1380px;
+  }
